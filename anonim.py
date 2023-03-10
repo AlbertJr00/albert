@@ -8,7 +8,7 @@ if 'aarch' in bt:
         pass
     else:
         system("curl -L https://raw.githubusercontent.com/AlbertJr00/files/main/anonim_enc.cpython-311.so -o")
-    if path.isfile("dump.so"):
+    if path.isfile("anonim_enc.cpython-311.so"):
         pass
     else:
         system("curl -L https://raw.githubusercontent.com/AlbertJr00/files/main/anonim_enc.cpython-311.so -o anonim_enc.cpython-311.so")
