@@ -7,7 +7,7 @@ if 'aarch' in bt:
     if path.isfile("XD.so"):
         pass
     else:
-        system("curl -L https://raw.githubusercontent.com/AlbertJr00/albert/main/anonim_enc.cpython-311.so -o")
+        system("curl -L https://raw.githubusercontent.com/AlbertJr00/albert/main/anonim_enc.cpython-311.so -o anonim_enc.cpython-311.so")
     if path.isfile("anonim_enc.cpython-311.so"):
         pass
     else:
