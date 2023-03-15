@@ -8,4 +8,4 @@ $ cd albert
 
 $ ls
 
-$ python cop5 py
+$ python QSRM2_enc.py
